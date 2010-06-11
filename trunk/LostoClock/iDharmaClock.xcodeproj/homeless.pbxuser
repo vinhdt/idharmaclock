@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LostoClockAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 501}}";
+			sepNavSelRange = "{171, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LostoClockAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 478}}";
+			sepNavSelRange = "{506, 31}";
+			sepNavVisRange = "{0, 676}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iDharmaClock */ = {
+		activeExec = 0;
+		executables = (
+			58520D2611BD8CC9006E29ED /* iDharmaClock */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LostoClockViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1053}}";
+			sepNavSelRange = "{233, 21}";
+			sepNavVisRange = "{1218, 728}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LostoClockViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1293, 9438}}";
+			sepNavSelRange = "{21898, 4}";
+			sepNavVisRange = "{20963, 1297}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 58520D2611BD8CC9006E29ED /* iDharmaClock */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iDharmaClock */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iDharmaClock */,
+		);
+		codeSenseManager = 58520D2D11BD8CE8006E29ED /* Code sense */;
+		executables = (
+			58520D2611BD8CC9006E29ED /* iDharmaClock */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					742,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297969487;
+			PBXWorkspaceStateSaveDate = 297969487;
+		};
+		perUserProjectItems = {
+			58050A4A11BFC4D000FBCF82 = 58050A4A11BFC4D000FBCF82 /* PBXBookmark */;
+			58050A4B11BFC4D000FBCF82 = 58050A4B11BFC4D000FBCF82 /* PlistBookmark */;
+			58520D4611BD929D006E29ED = 58520D4611BD929D006E29ED /* PBXTextBookmark */;
+			58520D4711BD929D006E29ED = 58520D4711BD929D006E29ED /* PBXTextBookmark */;
+			58520D6311BDA0A1006E29ED = 58520D6311BDA0A1006E29ED /* PBXTextBookmark */;
+			58520D6411BDA0A1006E29ED = 58520D6411BDA0A1006E29ED /* PBXTextBookmark */;
+			5888135011BFF9820048E41E = 5888135011BFF9820048E41E /* PBXTextBookmark */;
+			5888135111BFF9820048E41E = 5888135111BFF9820048E41E /* PBXTextBookmark */;
+			5888158E11C18B740048E41E = 5888158E11C18B740048E41E /* PBXTextBookmark */;
+			588815A511C227A70048E41E = 588815A511C227A70048E41E /* PBXTextBookmark */;
+			5888167111C29BDD0048E41E = 5888167111C29BDD0048E41E /* PBXTextBookmark */;
+			5888167D11C2A7660048E41E /* PBXTextBookmark */ = 5888167D11C2A7660048E41E /* PBXTextBookmark */;
+			5888167E11C2A7660048E41E /* PBXTextBookmark */ = 5888167E11C2A7660048E41E /* PBXTextBookmark */;
+			5888167F11C2A7660048E41E /* PBXTextBookmark */ = 5888167F11C2A7660048E41E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 58520D2C11BD8CE8006E29ED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	58050A4A11BFC4D000FBCF82 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 996B5587115595EA00AB521F /* icon.png */;
+	};
+	58050A4B11BFC4D000FBCF82 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 58050A3411BFBCFB00FBCF82 /* iDharmaClock-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/homeless/Documents/iPhoneApps/LostoClock/iDharmaClock-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	58520D2611BD8CC9006E29ED /* iDharmaClock */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iDharmaClock;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	58520D2C11BD8CE8006E29ED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	58520D2D11BD8CE8006E29ED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	58520D4611BD929D006E29ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 996B55D011579CF700AB521F /* AlarmSettings.h */;
+		name = "AlarmSettings.h: 10";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	58520D4711BD929D006E29ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LostoClockAppDelegate.m */;
+		name = "LostoClockAppDelegate.m: 22";
+		rLen = 31;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 0;
+	};
+	58520D6311BDA0A1006E29ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99CCAA991185A3F6001B2E14 /* TimerClockView.h */;
+		name = "TimerClockView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 0;
+	};
+	58520D6411BDA0A1006E29ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99CCAA9A1185A3F6001B2E14 /* TimerClockView.m */;
+		name = "TimerClockView.m: 59";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 592;
+	};
+	5888135011BFF9820048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LostoClockAppDelegate.h */;
+		name = "LostoClockAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	5888135111BFF9820048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 99CCAA56118599B0001B2E14 /* TimerSetUp.h */;
+		name = "TimerSetUp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	5888158E11C18B740048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LostoClockViewController.h */;
+		name = "LostoClockViewController.h: 12";
+		rLen = 21;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 1218;
+	};
+	588815A511C227A70048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LostoClockViewController.m */;
+		name = "LostoClockViewController.m: 195";
+		rLen = 0;
+		rLoc = 4672;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 386;
+	};
+	5888167111C29BDD0048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LostoClockViewController.m */;
+		name = "LostoClockViewController.m: 646";
+		rLen = 4;
+		rLoc = 21898;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 20993;
+	};
+	5888167D11C2A7660048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LostoClockViewController.m */;
+		name = "LostoClockViewController.m: 646";
+		rLen = 4;
+		rLoc = 21898;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 20963;
+	};
+	5888167E11C2A7660048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LostoClockAppDelegate.h */;
+		name = "LostoClockAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	5888167F11C2A7660048E41E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LostoClockAppDelegate.h */;
+		name = "LostoClockAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	996B55D011579CF700AB521F /* AlarmSettings.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 478}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{0, 558}";
+		};
+	};
+	99CCAA56118599B0001B2E14 /* TimerSetUp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 501}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 380}";
+		};
+	};
+	99CCAA991185A3F6001B2E14 /* TimerClockView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 977}";
+		};
+	};
+	99CCAA9A1185A3F6001B2E14 /* TimerClockView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 8489}}";
+			sepNavSelRange = "{1333, 0}";
+			sepNavVisRange = "{592, 1006}";
+		};
+	};
+}
